@@ -5,13 +5,13 @@
     "minimum-stability": "dev",
     "repositories": [
       {
-        "type": "vcs",
+        "type": "git",
         "url": "https://github.com/steveperrycreative/insightly-php.git"
       }
     ],
     "require": {
         "php": ">=5.5.9",
-        "steveperrycreative/php-insightly": "dev-master",
+        "ggdx/php-insightly": "dev-master",
         "symfony/psr-http-message-bridge": "0.2"
     },
     "license": "MIT",
